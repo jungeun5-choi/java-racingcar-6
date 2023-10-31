@@ -63,8 +63,8 @@ jun : ---
 
 
 ### 예외처리
-- [ ] 사용자가 잘못된 값을 입력할 경우, `IllegalArgumentException`을 발생시킨 후 애플리케이션이 종료된다.
+- [x] 사용자가 잘못된 값을 입력할 경우, `IllegalArgumentException`을 발생시킨 후 애플리케이션이 종료된다.
 
 ### 테스트
-- [ ]  JUnit 5와 AssertJ를 이용하여 기능 목록이 정상 동작함을 테스트 코드로 확인!
+- [x] JUnit 5와 AssertJ를 이용하여 기능 목록이 정상 동작함을 테스트 코드로 확인!
     - 테스트 도구 사용법이 익숙하지 않다면 `test/java/study`를 참고하여 학습
